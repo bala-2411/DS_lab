@@ -1,0 +1,91 @@
+                                                                                                                                                                                                                                           
+┌──(kali㉿kali)-[~/Desktop/jothi/DS]
+└─$ ./a.out
+
+Stack Operations Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 1
+Enter element to push: 1
+Element pushed: 1
+
+Stack Operations Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 1
+Enter element to push: 2
+Element pushed: 2
+
+Stack Operations Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 1
+Enter element to push: 3
+Element pushed: 3
+
+Stack Operations Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 2
+Popped element: 3
+
+Stack Operations Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 3
+Stack elements: 2 1 
+
+Stack Operations Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 1
+Enter element to push: 3
+Element pushed: 3
+
+Stack Operations Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 1
+Enter element to push: 3
+Element pushed: 3
+
+Stack Operations Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 1
+Enter element to push: 4
+Element pushed: 4
+
+Stack Operations Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 3
+Stack elements: 4 3 3 2 1 
+
+Stack Operations Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 4
+                                                                                                                                                                                                                                            
+┌──(kali㉿kali)-[~/Desktop/jothi/DS]
+└─$ 
