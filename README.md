@@ -120,6 +120,108 @@ Enter your choice: 6
 7.Display
 8.Exit
 8
+
+===================EX 2 =============================
+┌──(kali㉿kali)-[~/Desktop/jothi/DS]
+└─$ gcc ds2.c 
+                                                                                                                   
+┌──(kali㉿kali)-[~/Desktop/jothi/DS]
+└─$ ./a.out
+
+Circular Linked List Operations:
+1. Create List
+2. Insert at Beginning
+3. Insert at End
+4. Insert at Position
+5. Delete at Beginning
+6. Delete at End
+7. Delete at Position
+8. Display
+9. Exit
+Enter your choice: 1
+Enter data for the first node: 1
+
+Circular Linked List Operations:
+1. Create List
+2. Insert at Beginning
+3. Insert at End
+4. Insert at Position
+5. Delete at Beginning
+6. Delete at End
+7. Delete at Position
+8. Display
+9. Exit
+Enter your choice: 2
+Enter data to insert at beginning: 1
+
+Circular Linked List Operations:
+1. Create List
+2. Insert at Beginning
+3. Insert at End
+4. Insert at Position
+5. Delete at Beginning
+6. Delete at End
+7. Delete at Position
+8. Display
+9. Exit
+Enter your choice: 3
+Enter data to insert at end: 4
+
+Circular Linked List Operations:
+1. Create List
+2. Insert at Beginning
+3. Insert at End
+4. Insert at Position
+5. Delete at Beginning
+6. Delete at End
+7. Delete at Position
+8. Display
+9. Exit
+Enter your choice: 4
+Enter data to insert: 2
+Enter position: 2
+
+Circular Linked List Operations:
+1. Create List
+2. Insert at Beginning
+3. Insert at End
+4. Insert at Position
+5. Delete at Beginning
+6. Delete at End
+7. Delete at Position
+8. Display
+9. Exit
+Enter your choice: 2
+Enter data to insert at beginning: 0
+
+Circular Linked List Operations:
+1. Create List
+2. Insert at Beginning
+3. Insert at End
+4. Insert at Position
+5. Delete at Beginning
+6. Delete at End
+7. Delete at Position
+8. Display
+9. Exit
+Enter your choice: 8
+0 1 2 1 4 
+
+Circular Linked List Operations:
+1. Create List
+2. Insert at Beginning
+3. Insert at End
+4. Insert at Position
+5. Delete at Beginning
+6. Delete at End
+7. Delete at Position
+8. Display
+9. Exit
+Enter your choice: 9
+                                                                                                                   
+┌──(kali㉿kali)-[~/Desktop/jothi/DS]
+└─$ 
+
                                                                                                                    
 =======================EX 3A=======================
                                                                                                                                                                                                                                            
